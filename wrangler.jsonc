@@ -1,0 +1,10 @@
+{
+  "name": "made-video",
+  "compatibility_date": "2026-08-15",
+  "main": "index.js",
+  "assets": {
+    "directory": ".",
+    "binding": "ASSETS",
+    "run_worker_first": true
+  }
+}
